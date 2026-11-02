@@ -1,0 +1,10 @@
+[
+  {
+    "episode": 1,
+    "title": "Introduction to Python",
+    "colab": "https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_01/episode_01_practice.ipynb",
+    "download": "https://github.com/madaswath/buildforward-python/releases/download/ep01-v1.0/episode_01_practice.ipynb",
+    "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_01",
+    "tag": "ep01-v1.0"
+  }
+]

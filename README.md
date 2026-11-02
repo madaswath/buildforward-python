@@ -1,30 +1,16 @@
-# Episode 1 Practice: Introduction to Python
+# BuildForward: Python practice notebooks
 
-Run your first program, change it, read your first errors, and solve the savings challenge.
+Free practice notebooks for the **BuildForward** Python series. One folder per episode, each with exercises, hints, solutions and a quiz.
 
-Practice notebook for the **BuildForward** Python series, episode 1.
+| Ep | Notebook | Colab | Download | Files |
+|---|---|---|---|---|
+| 01 | Introduction to Python | [Open in Colab](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_01/episode_01_practice.ipynb) | [Download](https://github.com/madaswath/buildforward-python/releases/download/ep01-v1.0/episode_01_practice.ipynb) | [Folder](https://github.com/madaswath/buildforward-python/tree/main/episode_01) |
 
-## Get the notebook
+## How to use them
 
-- **[Download `episode_01_practice.ipynb`](https://github.com/madaswath/buildforward-python/releases/download/v1.0/episode_01_practice.ipynb)** (saves the file to your computer)
-- **[Open in Google Colab](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_01_practice.ipynb)** (nothing to install, runs in your browser)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_01_practice.ipynb)
-
-## How to use it
-
-1. Open the notebook in Colab, or in Jupyter if you already have Python installed.
-2. Run the first cell once. It adds a small `check` helper.
-3. Run each cell with **Shift + Enter**.
-4. In an exercise, write your answer in the starter cell, then run the check cell below it.
-5. Stuck? Open the **Hint**. Still stuck? Open the **Solution**, read it, then try again from memory.
-
-## Run it on your own computer
-
-```bash
-pip install notebook
-jupyter notebook episode_01_practice.ipynb
-```
+1. Click **Open in Colab** (nothing to install) or **Download** the `.ipynb` file.
+2. Run the first cell once, then run each cell with **Shift + Enter**.
+3. Write your answers in the starter cells and run the check cell below each one.
 
 ## License
 
