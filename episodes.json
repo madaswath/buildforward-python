@@ -46,5 +46,13 @@
     "download": "https://github.com/madaswath/buildforward-python/releases/download/ep07-v1.0/episode_07_practice.ipynb",
     "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_07",
     "tag": "ep07-v1.0"
+  },
+  {
+    "episode": 8,
+    "title": "Project, Savings Calculator",
+    "colab": "https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_08/episode_08_practice.ipynb",
+    "download": "https://github.com/madaswath/buildforward-python/releases/download/ep08-v1.0/episode_08_practice.ipynb",
+    "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_08",
+    "tag": "ep08-v1.0"
   }
 ]
