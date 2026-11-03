@@ -62,5 +62,13 @@
     "download": "https://github.com/madaswath/buildforward-python/releases/download/ep09-v1.0/episode_09_practice.ipynb",
     "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_09",
     "tag": "ep09-v1.0"
+  },
+  {
+    "episode": 10,
+    "title": "Making Decisions with if, elif, else",
+    "colab": "https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_10/episode_10_practice.ipynb",
+    "download": "https://github.com/madaswath/buildforward-python/releases/download/ep10-v1.0/episode_10_practice.ipynb",
+    "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_10",
+    "tag": "ep10-v1.0"
   }
 ]
