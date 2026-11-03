@@ -38,5 +38,13 @@
     "download": "https://github.com/madaswath/buildforward-python/releases/download/ep06-v1.0/episode_06_practice.ipynb",
     "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_06",
     "tag": "ep06-v1.0"
+  },
+  {
+    "episode": 7,
+    "title": "Type Conversion and Reading Errors",
+    "colab": "https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_07/episode_07_practice.ipynb",
+    "download": "https://github.com/madaswath/buildforward-python/releases/download/ep07-v1.0/episode_07_practice.ipynb",
+    "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_07",
+    "tag": "ep07-v1.0"
   }
 ]
