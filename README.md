@@ -8,6 +8,7 @@ Free practice notebooks for the **BuildForward** Python series. One folder per e
 | 03 | Variables and Data Types | [Open in Colab](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_03/episode_03_practice.ipynb) | [Download](https://github.com/madaswath/buildforward-python/releases/download/ep03-v1.0/episode_03_practice.ipynb) | [Folder](https://github.com/madaswath/buildforward-python/tree/main/episode_03) |
 | 04 | Numbers and Operators | [Open in Colab](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_04/episode_04_practice.ipynb) | [Download](https://github.com/madaswath/buildforward-python/releases/download/ep04-v1.0/episode_04_practice.ipynb) | [Folder](https://github.com/madaswath/buildforward-python/tree/main/episode_04) |
 | 05 | Strings | [Open in Colab](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_05/episode_05_practice.ipynb) | [Download](https://github.com/madaswath/buildforward-python/releases/download/ep05-v1.0/episode_05_practice.ipynb) | [Folder](https://github.com/madaswath/buildforward-python/tree/main/episode_05) |
+| 06 | Input and Output | [Open in Colab](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_06/episode_06_practice.ipynb) | [Download](https://github.com/madaswath/buildforward-python/releases/download/ep06-v1.0/episode_06_practice.ipynb) | [Folder](https://github.com/madaswath/buildforward-python/tree/main/episode_06) |
 
 ## How to use them
 
