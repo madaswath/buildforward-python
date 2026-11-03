@@ -22,5 +22,13 @@
     "download": "https://github.com/madaswath/buildforward-python/releases/download/ep04-v1.0/episode_04_practice.ipynb",
     "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_04",
     "tag": "ep04-v1.0"
+  },
+  {
+    "episode": 5,
+    "title": "Strings",
+    "colab": "https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_05/episode_05_practice.ipynb",
+    "download": "https://github.com/madaswath/buildforward-python/releases/download/ep05-v1.0/episode_05_practice.ipynb",
+    "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_05",
+    "tag": "ep05-v1.0"
   }
 ]
