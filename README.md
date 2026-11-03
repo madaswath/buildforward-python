@@ -5,6 +5,7 @@ Free practice notebooks for the **BuildForward** Python series. One folder per e
 | Ep | Notebook | Colab | Download | Files |
 |---|---|---|---|---|
 | 01 | Introduction to Python | [Open in Colab](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_01/episode_01_practice.ipynb) | [Download](https://github.com/madaswath/buildforward-python/releases/download/ep01-v1.0/episode_01_practice.ipynb) | [Folder](https://github.com/madaswath/buildforward-python/tree/main/episode_01) |
+| 03 | Variables and Data Types | [Open in Colab](https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_03/episode_03_practice.ipynb) | [Download](https://github.com/madaswath/buildforward-python/releases/download/ep03-v1.0/episode_03_practice.ipynb) | [Folder](https://github.com/madaswath/buildforward-python/tree/main/episode_03) |
 
 ## How to use them
 

@@ -6,5 +6,13 @@
     "download": "https://github.com/madaswath/buildforward-python/releases/download/ep01-v1.0/episode_01_practice.ipynb",
     "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_01",
     "tag": "ep01-v1.0"
+  },
+  {
+    "episode": 3,
+    "title": "Variables and Data Types",
+    "colab": "https://colab.research.google.com/github/madaswath/buildforward-python/blob/main/episode_03/episode_03_practice.ipynb",
+    "download": "https://github.com/madaswath/buildforward-python/releases/download/ep03-v1.0/episode_03_practice.ipynb",
+    "folder": "https://github.com/madaswath/buildforward-python/tree/main/episode_03",
+    "tag": "ep03-v1.0"
   }
 ]
